@@ -1,0 +1,1 @@
+{"name":"opencode-v2-bank-sandbox","version":"0.1.0-preview","private":true,"type":"module","main":"index.js","scripts":{"test":"node --test test/adapter.test.mjs"}}

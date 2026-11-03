@@ -1,0 +1,7 @@
+test/test-runs/
+sessions/
+.runs/
+test/launcher-runs/
+test/opencode-runs/
+test/verification/
+*.log
